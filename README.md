@@ -1,5 +1,5 @@
-# webpack-boilerplate
-Basic Webpack + Babel boilerplate for html projects
+# Weather App
+Weather App project for The Odin Project 
 
 ##
 to install run: npm run i
